@@ -20,7 +20,8 @@ The project adopts a mean-variance optimization approach to select the optimal p
 - **Portfolio Optimization:** Two variants of portfolio optimization are performed:
 1. Minimizing portfolio variance with a constraint on the minimum expected return.
 2. Maximizing the portfolio's expected return while constraining the portfolio variance.
-Risk Analysis: Value at Risk (VAR) at 1% and 10% levels is calculated to assess the downside risk of the portfolio.<br>
+- **Risk Analysis:** Value at Risk (VAR) at 1% and 10% levels is calculated to assess the downside risk of the portfolio.<br>
+
 **Results and Conclusion**
 - The optimized portfolios are presented along with their expected returns and standard deviations.
 - Risk analysis results, including VAR at 1% and 10%, provide insights into the potential losses at different confidence levels.
